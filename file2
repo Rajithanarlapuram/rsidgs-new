@@ -1,0 +1,10 @@
+#simple programm
+#!/bin/sh
+a=10
+b=20
+if [ $a == $b ]
+then
+echo ""[Da is equal to b"
+else
+echo ""[Da is not equal to b"
+if
